@@ -24,8 +24,12 @@ void main()
         case 4:
         printf("Division is %d",a/b);
         break;
+        case 5:
+        printf ("Remainder is %d",a%b);
+        break;
         default:
         printf("Choose for anything");
+         
     }
 }
 
