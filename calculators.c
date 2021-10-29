@@ -13,7 +13,7 @@ void main()
     switch(num)
     {
         case 1:
-        printf("Addition is %d",a+b);
+        printf("Addition : %d",a+b);
         break;
         case 2:
         printf("Subtraction is %d",a-b);
